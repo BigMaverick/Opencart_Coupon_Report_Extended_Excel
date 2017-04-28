@@ -17,7 +17,7 @@ $_['column_date_added'] = 'Date';
 $_['column_original_price'] = 'Original Price';
 $_['column_savings'] = 'Savings';
 $_['column_sale_price'] = 'Sale Price';
-$_['column_firstname'] = 'First Name';
+$_['column_firstname'] = 'Name';
 $_['column_payment_city'] = 'City';
 $_['column_payment_state'] = 'State';
 // Entry
